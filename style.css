@@ -290,7 +290,7 @@ button:hover {
     background-color: #333;
 }
 
-@media (min-width: 768px){
+@media (man-width: 768px){
 
     .main-section{
         height: fit-content;
